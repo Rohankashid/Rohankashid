@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img src="[pic_trulli.jpg](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171841_ek6D8jhk0oh3rwQgSkBdDHcatLaJZ4iQ.jpg)" alt="coding boy">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankashid&label=Profile%20views&color=0e75b6&style=flat" alt="rohankashid" /> </p>
 
