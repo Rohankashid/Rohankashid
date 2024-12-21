@@ -1,13 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding" width=""400 src="https://giphy.com/gifs/dKc2fBq97S9gIzLX2j">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankashid&label=Profile%20views&color=0e75b6&style=flat" alt="rohankashid" /> </p>
 
 - 🌱 I’m currently learning **Backend Dev , AWS**
 
-- 💬 Ask me about **Node JS , AWS , Express**
+- 💬 Ask me about **Node JS , AWS , Express , Databases , Data Strucures**
 
 - 📫 How to reach me **rohankashid25753@gmail.com**
 
