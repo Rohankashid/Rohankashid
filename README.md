@@ -1,75 +1,26 @@
+<h1 align="center">Hi 👋, I'm Rohan</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
+<img src="[pic_trulli.jpg](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171841_ek6D8jhk0oh3rwQgSkBdDHcatLaJZ4iQ.jpg)" alt="coding boy">
 
-# Hi there, I'm Rohan Kashid! 👋  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankashid&label=Profile%20views&color=0e75b6&style=flat" alt="rohankashid" /> </p>
 
-## 🚀 About Me
-A passionate **Computer Science Engineering** graduate eager to explore advanced technologies and contribute to impactful projects. With a knack for problem-solving and continuous learning, I aim to blend technical skills with innovative thinking to drive success in the tech domain.
+- 🌱 I’m currently learning **Backend Dev , AWS**
 
----
+- 💬 Ask me about **Node JS , AWS , Express**
 
-## 📫 Contact Me
-- **📧 Email:** [rohankashid25753@gmail.com](mailto:rohankashid25753@gmail.com)  
-- **🔗 LinkedIn:** [LinkedIn Profile](#)  
-- **📂 GitHub:** [GitHub Profile](#)  
+- 📫 How to reach me **rohankashid25753@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohan-kashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-kashid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohanuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohanuk" height="30" width="40" /></a>
+</p>
 
-## 🛠️ Technical Skills
-- **Programming Languages:** C/C++, Python, Java, HTML, CSS, JavaScript (Intermediate), SQL  
-- **Frameworks & Tools:** Express.js, Node.js, npm, GitHub, VS Code, PyCharm, Eclipse  
-- **Databases & Cloud:** MySQL, MongoDB, AWS (Beginner)  
-- **Relevant Coursework:** Data Structures, OOP, DBMS, Computer Networks  
-- **Soft Skills:** Adaptability, Self-learning, Problem Solving, Time Management  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohankashid&show_icons=true&locale=en&layout=compact" alt="rohankashid" /></p>
 
-## 💼 Projects
-### 🔹 Tower of Hanoi  
-**Technologies:** C Programming, Recursion  
-- Designed a graphical solution to visualize the Tower of Hanoi problem.  
-- Implemented recursive algorithms to enhance user understanding.  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankashid&show_icons=true&locale=en" alt="rohankashid" /></p>
 
-### 🔹 Online Auction System  
-**Technologies:** HTML, CSS, JavaScript, Python, Django  
-- Built a web-based platform to streamline auction processes with real-time bidding.  
-- Enabled dynamic item listing to make the process efficient and user-friendly.  
-
-### 🔹 Deep Fake Detection Model *(Ongoing)*  
-**Technologies:** LSTM, ResNet50, Keras, TensorFlow  
-- Developed a system to detect deep fakes using video frame analysis.  
-- Integrated advanced ML techniques for high-accuracy detection.  
-
----
-
-## 🎓 Certifications
-- **Python for Machine Learning and Data Science** - Shivaji University, Kolhapur *(March 2024)*  
-- **Data Structures and Algorithms with C++** - Apttech Solution  
-- **Introduction to Cloud Computing** - Infosys, Springboard *(July 2024)*  
-- **AWS Cloud Practitioner Essentials** - AWS *(September 2024)*  
-
----
-
-## 🧑‍💻 Coding Platforms
-- Solved **100+ problems on LeetCode**, enhancing skills in data structures and performance optimization.  
-
----
-
-## 🌟 Objective
-A motivated and adaptable individual seeking an entry-level position to apply my technical skills and gain exposure to cutting-edge technologies. I aim to contribute to the growth of an organization while continuously enhancing my knowledge.  
-
----
-
-⭐️ *Feel free to explore my repositories and connect with me to discuss exciting ideas or projects!*
-<!--
-**Rohankashid/Rohankashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohankashid&" alt="rohankashid" /></p>
