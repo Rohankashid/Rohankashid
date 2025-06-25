@@ -1,5 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)
-<h1 align="center">Hi 👋, I'm Rohan</h1>
+<h1 align="center">Hi , I'm Rohan</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankashid&label=Profile%20views&color=0e75b6&style=flat" alt="rohankashid" /> </p>
 
@@ -11,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohan-kashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-kashid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohanuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohanuk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
